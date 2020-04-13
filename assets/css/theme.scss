@@ -36,7 +36,7 @@ h1,h2,h3,h4,h5,h6 {
     font-weight:700;
 }
 .site-content {
-    padding-top:50px;
+    padding-top:0px;
 }
 .sitetag {
     font-weight:700;    
@@ -406,12 +406,14 @@ img, img:hover {
     line-height:1.2;
 }
 .entry-featured-image {  
-    width:100%;  
+    width: 100%;
+    max-height: 470px;
+    overflow: hidden;
     max-width: 100%;
     text-align:center;
     margin-left:auto;
     margin-right: auto;
-    margin-top:25px;
+    margin-top:0px;
     margin-bottom:25px;
 }
 .image-shadow {   
