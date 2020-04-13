@@ -64,21 +64,26 @@ ga('send', 'pageview');
 
 <div class="site-content {% if page.url == '/' %} firstpage {% endif %}">
 
+<!-- Featured Image -->
+{% include featured-image.html %}
+
 <div class="container">
 
     <!-- Site Logo/Name
     ================================================== -->
-   
+    {% if page.url == '/' %}
     <a class="navbar-brand" href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+        <h1 style="color: #333;">{{ site.name }}</h1>
+        <!-- <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}"> -->
     </a>  
+    {% endif %}
    
 
     <!-- Site Tag
     ================================================== -->
     {% if page.url == '/' %}
         <p class="sitetag">
-            {{ site.description }}
+            <h4 style="color: grey;">{{ site.description }}</h4>
         </p>
     {% endif %}
 
