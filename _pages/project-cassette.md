@@ -13,9 +13,9 @@ This is an attempt replicate Popcorn Time for Audio Books, follows the basic str
 
 ### BareBasic
 
-⋅⋅* [Popcorn Official Repos](https://github.com/popcorn-official/ "Popcorn Official Repo")
-⋅⋅* [Popcorn Api Repo](https://github.com/popcorn-official/popcorn-api "Popcorn Api Repo")
-⋅⋅* [Popcorn Android Repo](https://github.com/popcorn-official/popcorn-android "Popcorn Android Repo")
+* [Popcorn Official Repos](https://github.com/popcorn-official/ "Popcorn Official Repo").
+* [Popcorn Api Repo](https://github.com/popcorn-official/popcorn-api "Popcorn Api Repo").
+* [Popcorn Android Repo](https://github.com/popcorn-official/popcorn-android "Popcorn Android Repo")
 
 ### Artwork
 
