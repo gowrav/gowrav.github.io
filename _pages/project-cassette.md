@@ -11,12 +11,20 @@ A placeholder page for project-cassette..!
 
 This is an attempt replicate Popcorn Time for Audio Books, follows the basic structure listed here
 
-https://github.com/popcorn-official/
-https://github.com/popcorn-official/popcorn-api
-https://github.com/popcorn-official/popcorn-android
+###BareBasic
 
-https://github.com/popcorn-official/popcorn-artworks
+  [Popcorn Official Repos](https://github.com/popcorn-official/ "Popcorn Official Repo")
+  [Popcorn Api Repo](https://github.com/popcorn-official/popcorn-api "Popcorn Api Repo")
+  [Popcorn Android Repo](https://github.com/popcorn-official/popcorn-android "Popcorn Android Repo")
 
-Work on this later...
-https://github.com/popcorn-official/popcorn-desktop
-https://github.com/popcorn-official/popcorn-site
+###Artwork
+
+[Popcorn Artwork](https://github.com/popcorn-official/popcorn-artworks "Popcorn Artwork Repos")
+
+###Work on this later...
+
+[Popcorn Desktop Repo](https://github.com/popcorn-official/popcorn-desktop "Popcorn Desktop Repo")
+
+[Popcorn Site Repo](https://github.com/popcorn-official/popcorn-site "Popcorn Site Repo")
+
+
