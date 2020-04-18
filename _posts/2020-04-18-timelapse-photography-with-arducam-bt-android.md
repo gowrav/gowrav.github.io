@@ -9,7 +9,7 @@ description: "DIY timelapse for using Arducam,Bluetooth on Arduino and Android P
 rating: 
 ---
 
-
+Clone or Download the following Repo : https://github.com/gowrav-com/mycam_bt_arducam_android
 
 Repos for reference:
   https://github.com/ArduCAM/Arduino
