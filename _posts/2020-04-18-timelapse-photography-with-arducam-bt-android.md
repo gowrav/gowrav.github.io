@@ -76,8 +76,8 @@ Last but not the least I took some nice pics for the rememberance and Google pho
 
 
 #### Repos for reference:
- * https://github.com/ArduCAM/Arduino
- * https://github.com/douglasjunior/AndroidBluetoothLibrary
- * http://chip.jfpossibilities.com/docs/index.html
- * https://www.robotshop.com/media/files/pdf2/arducam_camera_shield_software_application_note.pdf
+ * [https://github.com/ArduCAM/Arduino](https://github.com/ArduCAM/Arduino)
+ * [https://github.com/douglasjunior/AndroidBluetoothLibrary](https://github.com/douglasjunior/AndroidBluetoothLibrary)
+ * [http://chip.jfpossibilities.com/docs/index.html](http://chip.jfpossibilities.com/docs/index.html)
+ * [https://www.robotshop.com/media/files/pdf2/arducam_camera_shield_software_application_note.pdf](https://www.robotshop.com/media/files/pdf2/arducam_camera_shield_software_application_note.pdf)
   
