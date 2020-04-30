@@ -32,6 +32,8 @@ more like no linking possible , seems Mediatek just decided to silently abondon 
 #### [Arducam shield v2 / Rev2](https://www.arducam.com/docs/spi-cameras-for-arduino/hardware/arducam-shield-v2/)
 This was my original plan that I would use a 5MP camera and capture the timelapse of seed germination over 15day quarantine and put it on this blog, and as you can see thats not what happened., first up I wasted couplpe of days figuring out what was wrong with the configuration for not taking a picture in [5mp](https://www.arducam.com/product/5-mega-pixel-camera-module-ov5642-1080p-jpeg-output/) and transfering it to the MBP (Mac Book Pro) only to come to terms with the fact that I was using a RevC Arducam and Not a Rev3
 
+![My BT Cam on My Window Sil](https://raw.githubusercontent.com/gowrav-com/mycam_bt_arducam_android/master/sampleimages/IMG_20200419_150237.jpg)
+
 #### [Arducam RevC](https://www.arducam.com/arducam-rev-c-plus-shield-released/)
 Ok then how about RevC, yeah thats why it wasn't working in the first place., the buffer memory i.e FIFO on this thing is 512KB while to take a 5MP image I need you guessed it way more than 512KB., so that was not gonna happen. so that dropped quickly although I took some shots when I got it working with the Arduino Mega 2560 which I had bought for this sole purpose. It wasn't the way I wanted., the buffer on FIFO started to erupt with every shot even when put on 320x240 mode that to jpeg for some reason and then I had a light bulb moment how about I capture the data from the LCD?? as that was working fine.,
 
@@ -63,7 +65,6 @@ For the detailed guide on the programming let me just point you to the tutorials
 this involves largely running the example program and configuring the C-Files to suit your board of choice which in this case was arducam mini, take a snap on the request code via UART interface and transmit taken pic on to the system via UART.
 After initial trials with Arduino-----UART------MBP HW-UART interfacing, I rigged up the HC-05 bluettoth to stream (using it very lightly here) data to the Android Smartphone for display and storage purposes.
 
-![My BT Cam on My Window Sil](https://raw.githubusercontent.com/gowrav-com/mycam_bt_arducam_android/master/sampleimages/IMG_20200419_150237.jpg)
 
 ![Android Screenshot of the App](https://raw.githubusercontent.com/gowrav-com/mycam_bt_arducam_android/master/sampleimages/Screenshot_20200419-150230.png)
 
