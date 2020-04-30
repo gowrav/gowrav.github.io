@@ -35,7 +35,7 @@ This was my original plan that I would use a 5MP camera and capture the timelaps
 #### [Arducam RevC](https://www.arducam.com/arducam-rev-c-plus-shield-released/)
 Ok then how about RevC, yeah thats why it wasn't working in the first place., the buffer memory i.e FIFO on this thing is 512KB while to take a 5MP image I need you guessed it way more than 512KB., so that was not gonna happen. so that dropped quickly although I took some shots when I got it working with the Arduino Mega 2560 which I had bought for this sole purpose. It wasn't the way I wanted., the buffer on FIFO started to erupt with every shot even when put on 320x240 mode that to jpeg for some reason and then I had a light bulb moment how about I capture the data from the LCD?? as that was working fine.,
 
-####### This is how it works
+###### This is how it works
 
 ![Buffering and Displaying on LCD](https://www.arducam.com/wp-content/uploads/2012/09/ArduCAM.gif)
 
