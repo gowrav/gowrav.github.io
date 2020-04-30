@@ -52,7 +52,7 @@ Ok why mini ? you ask ?., lets just try whats possible with a 2MP camera on the 
 ##### hook up guide
 well I am no master of hookup however I do have few tricks up my sleve when it comes to it ;)
 
-![Arducam Mini](https://www.arducam.com/wp-content/uploads/2019/01/B0067-1-2-160x160.jpg)
+![Arducam Mini](https://www.arducam.com/wp-content/uploads/2019/01/B0067-1-2.jpg)
 
 So it was pretty basic as you can see and I used Arduino Uno to get the job done.
 
