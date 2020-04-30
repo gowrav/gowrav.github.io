@@ -34,24 +34,35 @@ This was my original plan that I would use a 5MP camera and capture the timelaps
 
 #### [Arducam RevC](https://www.arducam.com/arducam-rev-c-plus-shield-released/)
 Ok then how about RevC, yeah thats why it wasn't working in the first place., the buffer memory i.e FIFO on this thing is 512KB while to take a 5MP image I need you guessed it way more than 512KB., so that was not gonna happen. so that dropped quickly although I took some shots when I got it working with the Arduino Mega 2560 which I had bought for this sole purpose. It wasn't the way I wanted., the buffer on FIFO started to erupt with every shot even when put on 320x240 mode that to jpeg for some reason and then I had a light bulb moment how about I capture the data from the LCD?? as that was working fine.,
-This is how it works
+
+####### This is how it works
+
 ![Buffering and Displaying on LCD](https://www.arducam.com/wp-content/uploads/2012/09/ArduCAM.gif)
+
 I did my research and here are some interesting facts the [bitmap RGB565](https://en.wikipedia.org/wiki/BMP_file_format) formatted image is used on the LCD and successfully implemented the idea only to have sub par images and that to fringed edges.
-![Images Are Missing on this one]()
+
+![Images Are Missing on this one](https://imgs.xkcd.com/comics/not_available.png)
 
 so what lets move on to the next option..
 #### [Arducam Mini](https://www.arducam.com/product/arducam-2mp-spi-camera-b0067-arduino/)
 Ok why mini ? you ask ?., lets just try whats possible with a 2MP camera on the ArduMini to see some light..
+
 ![Arducam Mini](https://www.arducam.com/wp-content/uploads/2019/01/b0067-2.jpg)
 
 ##### hook up guide
 well I am no master of hookup however I do have few tricks up my sleve when it comes to it ;)
+
 ![Arducam Mini](https://www.arducam.com/wp-content/uploads/2019/01/B0067-1-2-160x160.jpg)
+
 So it was pretty basic as you can see and I used Arduino Uno to get the job done.
+
 ![Arducam Mini Interface with Arduino Uno](https://raw.githubusercontent.com/gowrav-com/mycam_bt_arducam_android/master/sampleimages/IMG_20200419_150250.jpg)
+
 For the detailed guide on the programming let me just point you to the tutorials and documentation on [Arducam Github Repo](https://github.com/ArduCAM/Arduino)
+
 this involves largely running the example program and configuring the C-Files to suit your board of choice which in this case was arducam mini, take a snap on the request code via UART interface and transmit taken pic on to the system via UART.
 After initial trials with Arduino-----UART------MBP HW-UART interfacing, I rigged up the HC-05 bluettoth to stream (using it very lightly here) data to the Android Smartphone for display and storage purposes.
+
 ![My BT Cam on My Window Sil](https://raw.githubusercontent.com/gowrav-com/mycam_bt_arducam_android/master/sampleimages/IMG_20200419_150237.jpg)
 
 ![Android Screenshot of the App](https://raw.githubusercontent.com/gowrav-com/mycam_bt_arducam_android/master/sampleimages/Screenshot_20200419-150230.png)
