@@ -21,4 +21,5 @@ https://github.com/gowrav-com/mak_vesc_tool
 
 
 
-# Bibliography
+# References and Bibliography:
+https://github.com/vedderb/vesc_tool
