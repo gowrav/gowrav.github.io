@@ -9,7 +9,7 @@ description: "Accept the things you can't change, Courage to change the things y
 rating: 
 ---
 
-One of my favourite character in DC comics is Flash and more specifically Barry Allen version of Flash. He is one of the strongest ❤️ and Mind to exist in the universe. Inshort Barry always carried the burden of tragic murder of his mom and falseful incarnation of his father in his heart which consumed happiness of his childhood life., 
+One of my favourite character in DC comics is Flash and more specifically Barry Allen version of Flash. He is one of the strongest ❤️ and Mind to exist in the universe. Inshort Barry always carried the burden of tragic murder of his mom and falseful incarceration of his father in his heart which consumed happiness of his childhood life., 
 
 Once he became Flash he started helping people in ways he didn't think possible, and over years of thoughtful understanding of his power and it's capabilities to go back in time he finally goes back, long back to his childhood in an attempt to save his mom and there by creating a normal childhood for himself.
 
