@@ -32,9 +32,9 @@ Now this is the point where the wisdom inevitably is the key., Universe is all k
 
 I did show every part of my being, every interaction with her different from the previous, only to realise that with each take she is unattainable and more over she didn't even try., neither does she remember the moments I so monumentally cherished the very essence of what was pulling me so much towards her... I tore the pages and burnt the boats and bridges to be forgotten and hated but she offers a hand at acquaintance without unmasking her feelings, trying to look normal when there was never such a thing in my heart and "that" she's knows.
 
-This pain is much heavier than words can describe, when she looks at you with a friendly face and all you want is a 'slap' or a kiss on the lips, but all you get is that non nonchalant look of an acquaintance.
+This pain is much heavier than words can describe, when she looks at you with a friendly face and all you want is a 'slap' or a 'kiss on the lips', but all you get is that nonchalant look of an acquaintance.
 
-This is that instant of time and space., Where I let go of anything to do with this past 2 years, let go of all possibilities of the future that holds both of us and ends the post write where it started.
+This is that instant of time and space., Where I am ignoring the universe for once and letting go of anything to do with this past 2 years, and to let go of all possibilities of the future that holds both of us and end the post write where it started.
 
 At Flashpoint.
 
