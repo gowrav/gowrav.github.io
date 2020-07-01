@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flashpoint"
+title:  "Flashpoint : Accept the things you can't change, Courage to change the things you can and Wisdom to know the difference."
 author: gl
 categories:
 tags: [limitless]
