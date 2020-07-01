@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Flashpoint : Accept the things you can't change, Courage to change the things you can and Wisdom to know the difference."
+title:  "Flashpoint : Accept the things you can't change, have Courage to change the things you can and Wisdom to know the difference."
 author: gl
 categories:
 tags: [limitless]
 image: https://external-preview.redd.it/08J6ALgeN91x8OA7YC-YOyjjj9AupDKmjzB2XZhC2vk.jpg?auto=webp&s=5323814e8c64ef7a19df14d4f73c7a30f02166c7
-description: "Accept the things you can't change, Courage to change the things you can and Wisdom to know the difference."
+description: "Accept the things you can't change, have Courage to change the things you can and Wisdom to know the difference."
 rating: 
 ---
 
