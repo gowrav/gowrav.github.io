@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flashpoint : Accept the things you can't change, have Courage to change the things you can and Wisdom to know the difference."
+title:  "Flashpoint"
 author: gl
 categories:
 tags: [limitless]
@@ -25,6 +25,8 @@ So back to my Flashpoint., At the moment of writing this post it feels like ever
 
 My Flashpoint was Guniverse and over the past 2 years all I tried was to change the outcome of my relationship with her. She always saw me has an acquaintance and I always as a soulmate.
 
+![The MisTake](https://user-images.githubusercontent.com/2829356/86519057-b6b3fa00-be54-11ea-9c56-593b102af0b5.png)
+
 It has been 6 meetups so far with her 3 of which were on my request and other 3 circumstantial.
 Everyone of those has been my attempt in rigging the outcome and essential failing at it., These are filled with range of actions and emotions which I never took with anyone in my life so far and even as I write this blog all I can imagine are the possibilities universe can take that can lead to the desired outcome., none which involves any of my doing. I know atleast a few who would argue that thinking is the most powerful thing in this universe and as such the possibility of the desired outcome is closer than you think.
 
@@ -41,4 +43,4 @@ At Flashpoint.
 ![](https://lh3.googleusercontent.com/hbDNMQ_WWPHh3hG4vjslcFDgQ1yuDcEMIxCP3QdEMuWp4GTTiEfMYvEIX2mlEMerHMhvCwKvaOMtzNkbrRcgBKKIVHXDpgnBoyLGwL3_cw-fymzUsu5lTRQfmUgdVbSJXt8dNvTS7b2jcQCDDtVoXZUK5Nx9qFH6RUTH-jDKroTJH3pKifJiWXx2pKwjcVPRexBaidi0DkFITvYz721u8ytjozJW1zFd4Vse2iLqZ3-eBnxyeFuKlVVnzNrM80nsZygRFjZmSFq1xhSpIdF7tknQDquf5JXid0uLZxAOypWkOLM1xI6I8eZLtWIvz_J2dYt5-XQ8pC0xgdXBw-GNB-eW85pHegOLEDXmcF6OqiHnDm3QM6MYC-TSoqNjQMDn4kbpCkJ7v7NgDTUAauNxHNqDLWF3z9vvR2z_HMyX3ShL9qcdAOezSktpum2Nso4npMM251O0dsmB6wRLvjDrA61y23tpSmDTkbm6QanGDwbbRQPl9ZKJ9KkN4sEAqqZgdByw_aY7-sTf3dgjwyv135HuJP1U6CqkUHVauYJ6zs0K5oSgJ1w6VKDQKGD3QDn-ysWHn7hzI0KlQKRBwO5DAF3-MZLY3pPAj4mQ4WlQg1IFqnqfSGVvqmZOd7T57W2WAuWCgG5rkTe6lOCdEkEEYc2AgCwAEfQvWP9V8O2NJvz34DTn6E0U4DnM14hB_Rk=w480-h270-no?authuser=0)
 
 
-> Accept the things you can't change, Courage to change the things you can and Wisdom to know the difference.
+> Accept the things you can't change, have Courage to change the things you can and Wisdom to know the difference.

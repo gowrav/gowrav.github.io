@@ -51,12 +51,12 @@ Yeah, No.. this is not a how to guide to become saint, rather a list of things t
    * Once a week browse internet for latest development in tech.
    * Learn something apart from work related objectives.
 
-### Reject and Get rid of:
-   * Judgement and Blame games
-   * Porn, Smoking, Drinking and any pleasure driven activities
+### Limit or Get rid of:
+   * Meloncholy of the past, Judgement in the present and worrying about the future
+   * Porn [kaamasutra is fine!], Smoking/Drinking [once in a month is acceptable] and any pleasure only driven activities
    * Unhealthy eating habits and Fast Food.
    * Youtube binge, Primevideo/Netflix binge, Popcorn binge
    * Don't invest time in other projects on weekdays
-   * Stop discussing philosophy.
+   * Stop discussing philosophy or collecting quotables
    * Avoid using phones and distractions while eating
 
