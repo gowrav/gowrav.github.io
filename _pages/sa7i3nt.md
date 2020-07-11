@@ -7,7 +7,7 @@ image:
 imageshadow: true
 ---
 
-Yeah, No.. this is not a how to guide to become saint, rather a list of things that fall in the Venn-diagram of sainthood and fulfilled life, to make life a bit healthy.
+Few of my ideas for a fulfilled life.
 
 ### Awesome Body:
    * Everyday sweat & achieve personal best in at least 1 exercise.
