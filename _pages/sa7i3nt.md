@@ -53,7 +53,7 @@ Few of my ideas for a fulfilled life.
 
 ### Limit or Get rid of:
    * Meloncholy of the past, Judgement in the present and worrying about the future
-   * Porn [kaamasutra is fine!], Smoking/Drinking [once in a month is acceptable] and any pleasure only driven activities
+   * Porn [kaamasutra is acceptable], Smoking/Drinking [once in a month is acceptable]. The more one involves in pleasure the more they will forgo their chances at joy creating activities like Dating, Courtship, Bonding, Intimacy, Vulnerability, Endurance of Pain, Acceptance of Reality.
    * Unhealthy eating habits and Fast Food.
    * Youtube binge, Primevideo/Netflix binge, Popcorn binge
    * Don't invest time in other projects on weekdays
