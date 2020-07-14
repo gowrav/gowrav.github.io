@@ -15,6 +15,6 @@ I am a graduate in Electronics and Communication Engineering and hold a master d
 
 I have interned as a software developer before starting a private firm of my own with my best friend to build things we dreamed of. As of today I head a startup venture focused on electric vehicles, which has constantly provided me opportunities to better myself with things that I am fascinated about electronics.
 
-I believe that divinity exists in every atom and that there is a purpose even when one can't see it aka panpsychism, here then lives my ability to unconditionally love and let go of everything I come to experience with including myself.
+I have faith in god who is responsible for the sinus rhythm of my heart. I believe that divinity exists in every atom and that there is a purpose even when one can't see it aka panpsychism, here then lives my ability to unconditionally love and let go of everything I come to experience with including myself.
 
 
