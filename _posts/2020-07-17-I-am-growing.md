@@ -25,6 +25,10 @@ I have become good friends to many who weren't in my life 2 years ago.
 
 I handled my rejection well., and apologized for my destructive thinking with my ex.
 
+I have the power of Rejection for good by accepting it first hand.
+
+I have understood the importance of home making as an ultimate job while all other jobs are helping to fulfill the prime one.
+
 I am getting good at responding without emotional overflow where I can be humble and open without giving up myself.
 
 I have learnt to not raise my words when in a conversation and argument.
