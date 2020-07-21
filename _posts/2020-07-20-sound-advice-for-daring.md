@@ -86,13 +86,13 @@ It was a low status move. I felt the anxiety about missing out.
 
 
 ##### So why even ask when the trick is to Walk Away?
-Rejection is a double edge sword., it cuts both ways when you accept it. By accepting it you will master it.
+Rejection is a double edge sword., it cuts both ways. By accepting it you will master it.
 
 When you get rejected, saying "Thanks" and "Walking Away" is the most vulnerable and most powerful thing any Real Man can do...
 
 This is what makes Man a Superior Being, it makes him worthy of any woman., and no amount of money can buy it. What happens after this is not in our control, but more often than not it works out.
 
 
-## Ok., what if she says Yes.
+## Ok., what if she says Yes.?
 Congratulations, You have come to the end of the journey.
 
