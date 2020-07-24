@@ -58,10 +58,10 @@ I would put it this way.
 Having this belief is the first step.
 
 ### Pointers for Rookie. [the Technique.!]
-For starters, if you haven't met her in persons but keep eyeballing her profile, it means you have paused your life in the dream of a pursuit which is not good.
+For starters, if you haven't met her in person but keep eyeballing her profile, it means you have paused your life in the dream of a pursuit which is not good.
 Remove her number from contacts. Don't keep tabs on her social media accounts or worse don't keep re-viewing her pics as you might get stuck in Limerance.
 
-As a man of faith all I can say is pray once to god or universe or just nudge your subconscious that you want to meet this crush of yours face to face by end of the year. This part of the puzzle is not under our control but asking for help is the only move we have here.
+As a man of faith all I can say is pray once to god or universe or just nudge your subconscious that you want to meet this crush of yours face to face by end of the year. This part of the puzzle is not under our control but asking for help is the only move we have.
 
 It will happen, and when you get your chance.. follow this **2 step rule**.
 
