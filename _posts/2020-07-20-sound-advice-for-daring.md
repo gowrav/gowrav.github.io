@@ -15,7 +15,7 @@ First, lets clear the nonsense. It's not love.!
 All the feelings and emotions you feel when you look at someone and start to develop immense need to be with and build a beautiful future together, yeah.. that has nothing to do with love.
 The feeling is just the rush of anxiety and uncertainty that helps flourish the possibilities of your imaginations.
 This will fade in time... Just give it some time. It will fade much quicker if you actually complete the cycle.
-For the lack of better word lets call it **pursuit**
+For the lack of a better word lets call it the **pursuit**
 
 Love is much more simpler to define but very difficult to understand.
 > Love is what keeps you alive
@@ -71,26 +71,29 @@ When she does.. Say "thanks for considering" and just walk away. **Don't make an
 
 ##### What the actual F?
 The trick is you need to start taking rejections casually, without any intense thoughts about what it means to you or your future. You will get better at dealing with these feelings and in the process you will completely remove your sense of worth from being questioned at any point in your life.
-You would have started loving yourself.
 
-I have got rejected so many times, some were a joy in retrospect. it doesn't mean much to my value or worthiness.
+You would have started "loving yourself". This is a level up that one needs to achieve. Loving oneself means you attract more people to love you for who you are.
+The unconditional kind.
 
-No matter what my friend Manoj keeps telling about me. I know my worth is much higher than most,
+I have got rejected so many times, some were a joy in retrospect. Rejections doesn't mean much to my value or worthiness.
 
-Everyone needs to develop that.
+No matter what my friend Manoj keeps saying, My worthiness have never been this antifragile before, everyone needs to develop that.
 
-At initiation it's completely normal to feel inadequate, you will be scared of loosing your shot and your mind keeps telling you to back down and limit yourself to comfort zones that which won't damage your sense of self respect.
+At inception it's totally normal to feel inadequate, you will be scared of loosing your shot, your mind keeps telling you to back down, to limit yourself in the comfort zones this is trait that has kept us alive for thousand's of years to do what is not risky in this case one which doesn't damage your sense of self.
 
-I had the same fear 2 years ago. I was desperate to prove my worth. I couldn't live without knowing and couldn't tollerate rejections. Many days I had wept myself to sleep. Every single time I met the girl I was pursuing, I used to ask her if she got engaged or found a match.
-It was a low status move. I felt the anxiety about missing out.
+I had struggled with this feeling for two years. I was desperate. I felt worthless for days together, I couldn't live without doing what was necessary but couldn't handle rejections well.
+Many days I had wept myself to sleep. Whenever I used to meeet the girl I was in pursuit of, I used to ask her availabilty to see if I have chance, looking back it was a low status move. Made me very needy, I had the anxiety about missing out. All in all that was the journey necessary to grow.
 
 
 ##### So why even ask when the trick is to Walk Away?
-Rejection is a double edge sword., it cuts both ways. By accepting it you will master it.
+Rejection is a double edge sword, it cuts both ways. You get to weild it's power by accepting it.
+Accept rejections gracefully and you will master it.
 
-When you get rejected, saying "Thanks" and "Walking Away" is the most vulnerable and most powerful thing any Real Man can do...
+![True Power lies in Acceptance of Self](https://thumbs.gfycat.com/AggressiveFeistyChamois-size_restricted.gif)
 
-This is what makes Man a Superior Being, it makes him worthy of any woman., and no amount of money can buy it. What happens after this is not in our control, but more often than not it works out.
+When you get rejected, saying "Thanks for Considering" and "Walking Away" is the most vulnerable and most powerful thing any Real Man can do...
+
+This is what makes man a Superior Being, it makes him worthy of any woman., and no amount of money can buy it. What happens after this is not in our control, but more often than not it works out.
 
 
 ## Ok., what if she says Yes.?
