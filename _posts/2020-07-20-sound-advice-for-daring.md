@@ -4,7 +4,7 @@ title:  "Sound Advice for Daring"
 author: gl
 categories:
 tags: [Limitless]
-image: "https://user-images.githubusercontent.com/2829356/88361332-50a4fd80-cd96-11ea-86ae-742061e49150.png"
+image: "https://user-images.githubusercontent.com/2829356/88362766-5bae5c80-cd9b-11ea-9694-43967ed2ed59.jpg"
 description: ""
 rating: 
 ---
