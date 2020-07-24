@@ -56,7 +56,7 @@ I would put it this way.
 
 Having this belief is the first step.
 
-### Some pointers for the sake of clarity... [ the Technique.! ]
+### Pointers for Rookie. [the Technique.!]
 For starters, if you haven't met her in persons but keep eyeballing her profile, it means you have paused your life in the dream of a pursuit which is not good.
 Remove her number from contacts. Don't keep tabs on her social media accounts or worse don't keep re-viewing her pics as you might get stuck in Limerance.
 
