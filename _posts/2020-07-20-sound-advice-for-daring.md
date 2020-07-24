@@ -60,16 +60,21 @@ Having this belief is the first step.
 For starters, if you haven't met her in persons but keep eyeballing her profile, it means you have paused your life in the dream of a pursuit which is not good.
 Remove her number from contacts. Don't keep tabs on her social media accounts or worse don't keep re-viewing her pics as you might get stuck in Limerance.
 
-As a man of faith I can suggest, to pray once to god or universe or just nudge your subconscious that you want to meet this crush of yours face to face by end of the year. This part of the puzzle is not under our control but asking for help is the only move that works.
+As a man of faith all I can say is pray once to god or universe or just nudge your subconscious that you want to meet this crush of yours face to face by end of the year. This part of the puzzle is not under our control but asking for help is the only move we have here.
 
-Trust me it will happen, and when you get your chance.. follow this **2 step rule**.
+It will happen, and when you get your chance.. follow this **2 step rule**.
 
-1. Introduce yourself to your pursuit, give her a hint on how she can reach you. [could be a mutual friend reference, insta, or what not., I actually give my number and ask her to call if she is interested. Which is whole lot of polarization right there.!!]
-2. Tell her that you admire her presence in this world and ask her out on a date.
+1. **Introduce yourself to your pursuit, give her a hint on how she can reach you.**
+*could be a mutual friend reference, insta, or what not.*
 
-She will probably say *No*. or atlest some relative version of it, like not now. or something...this is all rejections. just without the apine to admit it.
+*I actually give my number and ask her to call if she is interested. Which is a whole lot of polarization right there.!!*
 
-If she does say anything other than a clear resounding *Yes*. Say "thanks for considering" and walk away.
+
+2. **Tell her that you admire her presence in this world and ask her out on a date be specific when [like evening on friday this week].**
+
+She will probably say *No*. or atlest some relative version of it, like not now. or something...this is all rejections. just without a spine to admit it.
+
+If she does say anything other than a clear resounding *Yes*. Say **"thanks for considering"** and walk away.
 **Don't make any excuses to stay longer than necessary or chat her up to get second chances.**
 
 #### What the actual Fuck.!! you say....?
