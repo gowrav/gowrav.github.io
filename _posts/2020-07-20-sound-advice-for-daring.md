@@ -71,7 +71,7 @@ It will happen, and when you get your chance.. follow this **2 step rule**.
 *I actually give my number and ask her to call if she is interested. Which is a whole lot of polarization right there.!!*
 
 
-2. **Tell her that you admire her presence in this world and ask her out on a date be specific when [like evening on friday this week].**
+2. **Tell her that you admire her presence in this world and ask her out on a date** *be specific [ How about friday evening? It would be cool to have a game of badminton / bowling together...].*
 
 She will probably say *No*. or atlest some relative version of it, like not now. or something...this is all rejections. just without a spine to admit it.
 
