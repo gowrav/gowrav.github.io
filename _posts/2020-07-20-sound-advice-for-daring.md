@@ -36,19 +36,21 @@ Whatever he said falls along the same lines...
 
 > Men desire women for their beauty and women desire men for their status ...
 
-"**status**" in our society is closely related to financial stability and when we don't have enough of it we feel less worthy. Typically men with money feel they are worthy and have the luxury of rejection.
-Which is true.
+"**status**" in our society is closely related to financial stability, and in India its now a father's duty to find a "secure" home for his daughter to procreate. In accordance to this, today more and more men have started crushing their ambitions and dreams in an illogical *pursuit* of *settling*. Typically men with money feel they are worthy and have the luxury of rejection, when we don't have enough of it we feel less worthy and feel dejected. 
+
 Luckily, this is not the complete story.
 
-In regards to his second question
 
-**Have you ever felt that you don't deserve that girl because she's too beautiful?**
+Let's make it a bit personal..
+***Have you ever felt that you don't deserve that girl because she's too beautiful?***
 
 I don't anymore., If I find a woman attractive, I would definitely try my luck with her.
 
 > Imagine the worst possible thing that can happen if you ask her out.!, It's infinitely better than beliving she is not for you.
 
 I would put it this way.
+
+![Courage to be You](https://qph.fs.quoracdn.net/main-qimg-87a8c62ef46985b6632ec1a66fee1502)
 
 >The whole universe is here for you to take action, to conquer your wildest dreams. For any thoughts which says otherwise just put it on hold for 100years. You can revisit that later.
 
@@ -95,7 +97,8 @@ When you get rejected, saying "Thanks for Considering" and "Walking Away" is the
 
 This is what makes man a Superior Being, it makes him worthy of any woman., and no amount of money can buy it. What happens after this is not in our control, but more often than not it works out.
 
+## Ok., what if she says "Yes".?
+Congratulations, You have come to the end of this journey.
+![Its not the destination but the journey which generates happiness](https://steamcdn-a.akamaihd.net/steam/apps/723750/header.jpg?t=1506661786)
 
-## Ok., what if she says Yes.?
-Congratulations, You have come to the end of the journey.
 
