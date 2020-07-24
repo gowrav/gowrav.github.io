@@ -98,7 +98,8 @@ When you get rejected, saying "Thanks for Considering" and "Walking Away" is the
 This is what makes man a Superior Being, it makes him worthy of any woman., and no amount of money can buy it. What happens after this is not in our control, but more often than not it works out.
 
 ## Ok., what if she says "Yes".?
-Congratulations, You have come to the end of this journey.
+Congratulations, You have come to an end of this journey.
+
 ![Its not the destination but the journey which generates happiness](https://steamcdn-a.akamaihd.net/steam/apps/723750/header.jpg?t=1506661786)
 
 
