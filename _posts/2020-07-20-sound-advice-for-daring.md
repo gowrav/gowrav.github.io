@@ -54,52 +54,59 @@ I would put it this way.
 
 >The whole universe is here for you to take action, to conquer your wildest dreams. For any thoughts which says otherwise just put it on hold for 100years. You can revisit that later.
 
-This is the first step.
+Having this belief is the first step.
 
-##### Pointers who have taken the first step.
-For starters,
-if you keep eyeballing her profile, it means you have paused your life in pursuit which is not good. remove her number from contacts. Don't keep tabs on her social media accounts or worse don't keep re-viewing her pics.
+### Some pointers for the sake of clarity... [ the Technique.! ]
+For starters, if you haven't met her in persons but keep eyeballing her profile, it means you have paused your life in the dream of a pursuit which is not good.
+Remove her number from contacts. Don't keep tabs on her social media accounts or worse don't keep re-viewing her pics as you might get stuck in Limerance.
 
 As a man of faith I can suggest, to pray once to god or universe or just nudge your subconscious that you want to meet this crush of yours face to face by end of the year. This part of the puzzle is not under our control but asking for help is the only move that works.
 
-Trust me it will happen, and when you get that chance.. folow this 2 step rule.
+Trust me it will happen, and when you get your chance.. follow this **2 step rule**.
 
-1. Introduce yourself to your pursuit, give her a hint on how she can reach you. [could be a mutual friend reference, insta, or what not]
+1. Introduce yourself to your pursuit, give her a hint on how she can reach you. [could be a mutual friend reference, insta, or what not., I actually give my number and ask her to call if she is interested. Which is whole lot of polarization right there.!!]
 2. Tell her that you admire her presence in this world and ask her out on a date.
 
-She will probably say *No*. or atlest some relative version of it, like not now. or something...this is all rejections. just without the back bone to admit it.
+She will probably say *No*. or atlest some relative version of it, like not now. or something...this is all rejections. just without the apine to admit it.
 
-When she does.. Say "thanks for considering" and just walk away. **Don't make any excuses or give second chances.**
+If she does say anything other than a clear resounding *Yes*. Say "thanks for considering" and walk away.
+**Don't make any excuses to stay longer than necessary or chat her up to get second chances.**
 
-##### What the actual F?
-The trick is you need to start taking rejections casually, without any intense thoughts about what it means to you or your future. You will get better at dealing with these feelings and in the process you will completely remove your sense of worth from being questioned at any point in your life.
+#### What the actual Fuck.!! you say....?
+The trick is you need to start taking rejections casually, without any intense thoughts about what it means to you or your future. You will get better at dealing with these feelings eventually and in the process you will completely remove your sense of worth from being questioned at any point in your life.
 
-You would have started "loving yourself". This is a level up that one needs to achieve. Loving oneself means you attract more people to love you for who you are.
-The unconditional kind.
+You would have started "loving yourself". This is a level up that one needs to achieve.
+Loving oneself means you attract more people to love you for who you are. This is the unconditional kind.
 
 I have got rejected so many times, some were a joy in retrospect. Rejections doesn't mean much to my value or worthiness.
 
 No matter what my friend Manoj keeps saying, My worthiness have never been this antifragile before, everyone needs to develop that.
 
-At inception it's totally normal to feel inadequate, you will be scared of loosing your shot, your mind keeps telling you to back down, to limit yourself in the comfort zones this is trait that has kept us alive for thousand's of years to do what is not risky in this case one which doesn't damage your sense of self.
+At inception it's totally normal to feel inadequate, you will be scared of loosing your shot, your mind keeps telling you to back down, to limit yourself in the comfort zones this is trait that has kept us alive for thousand's of years to do what is not risky in this case the one which doesn't damage your sense of self.
 
 I had struggled with this feeling for two years. I was desperate. I felt worthless for days together, I couldn't live without doing what was necessary but couldn't handle rejections well.
-Many days I had wept myself to sleep. Whenever I used to meeet the girl I was in pursuit of, I used to ask her availabilty to see if I have chance, looking back it was a low status move. Made me very needy, I had the anxiety about missing out. All in all that was the journey necessary to grow.
+Many days I had wept myself to sleep. Whenever I used to meeet the girl I was in pursuit of, I used to ask her availabilty to see if I have chance, looking back it was a low status move. Made me very needy, I had the anxiety about missing out. All in all that was a journey I needed to grow.
 
 
-##### So why even ask when the trick is to Walk Away?
+#### So why even ask when the trick is to Walk Away?
 Rejection is a double edge sword, it cuts both ways. You get to weild it's power by accepting it.
-Accept rejections gracefully and you will master it.
+
+By accepting rejections gracefully you will master it.
 
 ![True Power lies in Acceptance of Self](https://thumbs.gfycat.com/AggressiveFeistyChamois-size_restricted.gif)
 
-When you get rejected, saying "Thanks for Considering" and "Walking Away" is the most vulnerable and most powerful thing any Real Man can do...
+When you get rejected, saying "Thanks for Considering" and "Walking Away" is the most vulnerable and most powerful thing any **Real Man** can do...
 
-This is what makes man a Superior Being, it makes him worthy of any woman., and no amount of money can buy it. What happens after this is not in our control, but more often than not it works out.
+This is what makes man a **Superior Being**, it makes him worthy of any woman., and no amount of money can buy it. What happens after this is not in our control, but more often than not it works out.
 
 ## Ok., what if she says "Yes".?
 Congratulations, You have come to an end of this journey.
 
 ![Its not the destination but the journey which generates happiness](https://steamcdn-a.akamaihd.net/steam/apps/723750/header.jpg?t=1506661786)
 
-
+#### Repos for reference:
+ * [No More Mr. Nice Guy by Robert A Glover](https://www.amazon.in/No-More-Mr-Nice-Guy/dp/0762415339)
+ * [The Game by Neil Strauss](https://www.amazon.in/Game-Neil-Strauss/dp/0062312979)
+ * [Models by Mark Manson](https://www.amazon.in/Models-Attract-Women-Through-Honesty/dp/1463750358)
+ * [Attract-Women by Dominic Mann](https://www.amazon.in/Attract-Women-Unlock-Effortlessly-Become-ebook/dp/B06XFF1GDC)
+ 
