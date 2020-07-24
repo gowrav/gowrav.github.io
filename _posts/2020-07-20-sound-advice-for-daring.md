@@ -41,10 +41,11 @@ Whatever he said falls along the same lines...
 Luckily, this is not the complete story.
 
 
-Let's make it a bit personal..
-***Have you ever felt that you don't deserve that girl because she's too beautiful?***
+Let's make it a bit personal.
 
-I don't anymore., If I find a woman attractive, I would definitely try my luck with her.
+***Have I ever felt that I don't deserve that girl because she's too beautiful?***
+
+did Yes.., Not anymore., If I find a woman attractive, I would definitely try my luck with her.
 
 > Imagine the worst possible thing that can happen if you ask her out.!, It's infinitely better than beliving she is not for you.
 
