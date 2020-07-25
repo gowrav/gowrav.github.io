@@ -68,7 +68,8 @@ It will happen. When you get your chance follow this...
 
 I. **Introduce yourself to your pursuit, give her a hint on how she can reach you.**
 *could be a mutual friend reference, insta, or what not.*
-*Sometimes give my number and ask her to call if she is interested. Which is a whole lot of polarization right there.!!*
+
+*Sometimes I give my number and ask her to call if she is interested. This sounds raw but that's a whole lot of polarization right there.!!*
 
 
 II. **Tell her that you admire her presence in this world and ask her out on a date** *be specific [ How about friday evening? It would be fun to have a game of badminton / bowling together...].*
