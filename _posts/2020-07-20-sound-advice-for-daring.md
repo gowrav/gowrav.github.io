@@ -66,13 +66,13 @@ It will happen. When you get your chance follow this...
 
 **2 step rule**.
 
-1. **Introduce yourself to your pursuit, give her a hint on how she can reach you.**
+I. **Introduce yourself to your pursuit, give her a hint on how she can reach you.**
 *could be a mutual friend reference, insta, or what not.*
 
 *I actually give my number and ask her to call if she is interested. Which is a whole lot of polarization right there.!!*
 
 
-2. **Tell her that you admire her presence in this world and ask her out on a date** *be specific [ How about friday evening? It would be fun to have a game of badminton / bowling together...].*
+II. **Tell her that you admire her presence in this world and ask her out on a date** *be specific [ How about friday evening? It would be fun to have a game of badminton / bowling together...].*
 
 She will probably say *No*. or atlest some relative version of it, like not now. or something...this is all rejections. just without a spine to admit upfront.
 More often than not all rejections are part of the girl's own psyche's belief system to avoid socially awkward situations and limit herself to comfort zones. Don't over analyze it, its the part of the charm of the pursuit. There is one thing which works better don't engage her over a long period of time, make good eyecontact, any kind of non self deprecating jokes can aid the outcome that should end up showing the rawness of your being and at the same time make her feel comfortable being herself.
