@@ -9,7 +9,9 @@ description: ""
 rating: 
 ---
 
-I am not the "expert" in the domain but I do have a mastery over daring given my adventures so far.
+I have made many mistakes in my personal life not because the actions themselves were wrong but rather the intentions that thrusted them I was trying to prove that I was right and that people will understand things from my perspective. I was so very wrong.
+
+I am not an "expert" in the domain but I do have a mastery over daring given my adventures so far.
 
 First, lets clear the nonsense. It's not love.!
 All the feelings and emotions you feel when you look at someone and start to develop immense need to be with and build a beautiful future together, yeah.. that has nothing to do with love.
