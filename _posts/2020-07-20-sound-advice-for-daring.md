@@ -9,7 +9,7 @@ description: ""
 rating: 
 ---
 
-I have made many mistakes in my personal life not because the actions themselves were wrong but rather the intentions that thrusted them I was trying to prove that I was right and that people will understand things from my perspective. I was so very wrong.
+I have made many mistakes in my personal life not because the actions themselves were wrong but rather the intentions that thrusted them there was my deep rooted need to prove that I am right and that people will understand things from my perspective if I try. I was so very wrong...!
 
 I am not an "expert" in the domain but I do have a mastery over daring given my adventures so far.
 
