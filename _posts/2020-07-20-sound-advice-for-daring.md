@@ -119,7 +119,7 @@ What happens after this is not in our control, but more often than not it works 
 ## Ok., what if she says "Yes".?
 Congratulations, You have come to an end of this journey.
 
-![Its not the destination but the journey which generates happiness](https://steamcdn-a.akamaihd.net/steam/apps/723750/header.jpg?t=1506661786)
+![Love your Fate](https://zsorohome.files.wordpress.com/2019/04/1200x1600_2.gif)
 
 #### Repos for reference:
  * [No More Mr. Nice Guy by Robert A Glover](https://www.amazon.in/No-More-Mr-Nice-Guy/dp/0762415339)
