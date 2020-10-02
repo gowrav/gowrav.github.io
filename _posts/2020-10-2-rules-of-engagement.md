@@ -49,7 +49,7 @@ It's the manly way of handling things. Most people can't see the subtlety in thi
 Moral of the story
 Never compromise your identity for a short term pleasure. 
 Most needy man fall into the trap of being flexible to the situation to showcase dependability but what they fail to recognise is that only by being true to one's own identity you become the most powerful object for others to gravitate towards.
-You start pulling people into your region of influence when you don't compromise. Not only that, you will soon realise that more situations crop up on your life to fulfill your desires.
+You start pulling people into your region of influence when you don't compromise. Not only that, you will soon realise that more situations crop up in your life to fulfill your desires.
 
 ![Miracles do Happen](https://unquote.li/images/screens/resized/en-7nvyl95yxp-quote-oscar-wilde-square-medium.jpg)
 
