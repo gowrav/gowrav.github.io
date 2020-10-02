@@ -30,18 +30,19 @@ Your pursuit isn't favouring your bagpacking idea, you feel she is excited to go
 What you should do is ask her where she wants to go and plan accordingly.. right?
 
 Wrong.!! It's not the destination remember, it's the company., By considering her suggestion you compromised your own idea as if it was stupid.
-It's about establishing dominance in the relationship.,
+Best relationship exists because they don't compromise on themselves ever. They do things for each other but not at cost of their own.
 
 Remember the quote by Oscar Wilde.
-Everything is about sex; except sex, Sex is about power.!!
+> Everything is about sex; except sex, Sex is about power.!!
 
-Stay true to it.., even fight for it..!! Tell her that we can replan for her interest but you want to stick to your decision now.
+Stay true to it.., even fight for it..!! Tell her that we can replan but you want to stick to your destination and do it.
 
-Be vulnerable but never try to be nice.. Nor narcissistic for that matter....
+Be vulnerable but never try to be nice nor narcissistic for that matter.
 
-No body likes an ass kisser certainly not any girls dream choice for a boyfriend.
+No body likes an ass kisser certainly not any girl with ounce of self exteem.
 
-However there is a caveat to this, if the original idea was from her about the bag packing trip then go with the flow., You have more to show off with braving the situations and possibilities as they come than by trying to micromanage it or compromising oneself for it.
+However there is a caveat to this, if the original idea came from her about the bag packing trip then go with the flow.
+You have more to show off by accepting the situations as is than giving your two cents in adapting it.
 
 It's the manly way of handling things. Most people can't see the subtlety in this.. sadly this can't be thought you need to learn my making mistakes.
 
