@@ -77,3 +77,5 @@ Stillness is the key..be patient because the women will always work their way ba
 Most will flake out, but that shouldn't drive you desperate this needs to be your moto. 
 
 Remember if You don't bend.. Everything will.
+
+![Last Life Bender](https://i.pinimg.com/originals/46/f7/4a/46f74abe0a046960d70b171669d966fb.jpg)
