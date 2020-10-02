@@ -39,7 +39,7 @@ Stay true to it.., even fight for it..!! Tell her that we can replan but you wan
 
 Be vulnerable but never try to be nice nor narcissistic for that matter.
 
-No body likes an ass kisser certainly not any girl with ounce of self exteem.
+No body likes an ass kisser certainly not a lady with ounce of self exteem.
 
 However there is a caveat to this, if the original idea came from her about the bag packing trip then go with the flow.
 You have more to show off by accepting the situations as is than giving your two cents in adapting it.
