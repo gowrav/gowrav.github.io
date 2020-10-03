@@ -25,7 +25,7 @@ You will look like an ass hole and a self sufficient prick., Guess what works?
 ![Be Love](https://www.hdwallpapers.in/download/be_love_be_proud_be_you_quotes_4k-HD.jpg)
 
 I will set an example:
-Your pursuit isn't favouring your bagpacking idea, you feel she is excited to go with you but doesn't like the destination..
+Your pursuit isn't fully favouring your bagpacking idea, you feel she is excited to go with you but doesn't like the destination..
 
 What you should do is ask her where she wants to go and plan accordingly.. right?
 
@@ -45,6 +45,12 @@ However there is a caveat to this, if the original idea came from her about the 
 You have more to show off by accepting the situations as is than giving your two cents in adapting it.
 
 It's the manly way of handling things. Most people can't see the subtlety in this.. sadly this can't be thought you need to learn my making mistakes.
+
+One more example: 
+Crush of yours asks for your help in her assignment or some inputs on rephrasing her application. Seems something a fried would do right?
+
+Absolutely.!, not the only problem is that I don't personally help people do their job and as such I said No. Result, suddenly the responses just halted.
+SO what now you ask? The confident thing at this junction is to lay back for a week before trying to reconnect and in all possibility the person will soon recognise the commitment I have made myself is more important to me than acting out on a favour for a short term goal. This whole subconcious communication is more powerful than anyother that I could say.
 
 Moral of the story
 Never compromise your identity for a short term pleasure. 
