@@ -24,7 +24,7 @@ You will look like an ass hole and a self sufficient prick., Guess what works?
 
 ![Be Love](https://www.hdwallpapers.in/download/be_love_be_proud_be_you_quotes_4k-HD.jpg)
 
-####I will set an example:
+#### I will set an example:
 **Your pursuit isn't fully favouring your bagpacking idea, you feel she is excited to go with you but doesn't like the destination. 
 What you should do is ask her where she wants to go and plan accordingly.. right?**
 
