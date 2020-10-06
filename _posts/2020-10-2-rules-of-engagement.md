@@ -83,10 +83,25 @@ Ironically life takes a very subtle approach. The more comfortable you are with 
 No woman wants a man who keeps chasing after her, it's a low power move once you have successfully gotten her attention and you have showed that you desire her in all your rawness of being ....Stop Chasing..!!!! Please STOP!!!!
 
 Stillness is the key..be patient because the women will always work their way back to what truly keeps them intrigued. Not being shaken by them is the best there is.
-**A man who doesn't compromise himself or her will never compromise her for anything else.**
 
-Most girls will flake out because of their own insecurities, but that shouldn't drive you desperate remember this moto. 
+**A man who doesn't compromise himself for her will never compromise her for anything else.**
+
+Most girls will flake out because of their own insecurities most prominent trademark of flaking
+
+> Its not You, its Me [Bullshit](https://www.youtube.com/watch?v=yqEaaWTfK_w)
+
+
+*The truth is its definitely you.!! she will just be condescending when she makes this statement but there is an awesome technique to get back on the sadle.*
+**Don't Engage Her, be indifferent..!! I am awesome if you are with me, I am just as awesome without you**
 
 **If I don't bend or break.. Everything will.**
 
 ![Last Life Bender](https://i.pinimg.com/originals/46/f7/4a/46f74abe0a046960d70b171669d966fb.jpg)
+
+
+#### Repos for reference:
+ * [How To Be A 3% Man](https://www.amazon.in/Winning-Heart-Woman-Your-Dreams-ebook/dp/B004QOBAPK)
+ * [No More Mr. Nice Guy by Robert A Glover](https://www.amazon.in/No-More-Mr-Nice-Guy/dp/0762415339)
+ * [Conversation Casanova](https://www.amazon.in/Conversation-Casanova-Effortlessly-Start-Conversations-ebook/dp/B01MF66ZJE)
+ 
+
