@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rules of Engagement"
+title:  "Rules of Engagement [Draft]"
 author: gl
 categories:
 tags: [Limitless]
@@ -30,9 +30,6 @@ What you should do is ask her where she wants to go and plan accordingly.. right
 
 *Wrong.!! It's not the destination remember, it's the company., By considering her suggestion you compromised your own idea as if it was stupid.
 Best relationship exists because they don't compromise on themselves ever. They do things for each other but not at cost of their own.*
-
-Remember the quote by Oscar Wilde.
-> Everything is about sex; except sex, Sex is about power.!!
 
 Stay true to it.., even fight for it..!! Tell her that we can replan but you want to stick to your destination and do it.
 
@@ -69,7 +66,7 @@ No matter how unlikely the situation gets never ever take shortcuts, never give 
 Don't pull any kind of stunts. There will be plenty of situations where you will feel like doing something incredibly poetic, like writing a letter, showing up at her door unannounced, sending flowers and what not.
 These are all great ways of expressing yourself but before sex these are desperation moves no matter how reasonable they feel.
 
-I advocate doing this when you truly have power.,ie you had sex with this pursuit or when you are engaged.
+I advocate doing this when you truly have power.,ie when you are engaged.
 
 Yeah stupid.!! the rules apply for your whole life..!!
 **Its less to do with finding women to sleep with, but about finding yourself.**
@@ -101,7 +98,6 @@ Most girls will flake out because of their own insecurities most prominent trade
 
 #### Repos for reference:
  * [How To Be A 3% Man](https://www.amazon.in/Winning-Heart-Woman-Your-Dreams-ebook/dp/B004QOBAPK)
- * [No More Mr. Nice Guy by Robert A Glover](https://www.amazon.in/No-More-Mr-Nice-Guy/dp/0762415339)
- * [Conversation Casanova](https://www.amazon.in/Conversation-Casanova-Effortlessly-Start-Conversations-ebook/dp/B01MF66ZJE)
- 
+ * [TheSystem - DocLove](https://www.doclove.com/system/)
+ * [No More Mr. Nice Guy by Robert A Glover](https://www.amazon.in/No-More-Mr-Nice-Guy/dp/0762415339) 
 
