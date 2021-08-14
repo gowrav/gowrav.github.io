@@ -22,4 +22,4 @@ So then, life is not about fulfillment as there is nothing which is empty, rathe
 
 my mentor once said "Failure to try is the real failure".
 
-I have tried many things in my life so far and I am better or worse because of it, there is no taboo that I recognize in it however having them persistent in my mind has limited me, so then its about time to move on and make oneself imitless.
+I have tried many things in my life so far and I am better or worse because of it, there is no taboo that I recognize in it however having them persistent in my mind has limited me, so then its about time to move on and make oneself limitless.
