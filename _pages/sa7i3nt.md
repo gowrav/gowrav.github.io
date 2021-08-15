@@ -28,7 +28,7 @@ Few of my ideas for a fulfilled life.
    * Listen to podcasts than video surfing
 
 ### Finance :
-   * Invest 100Rs every month into a seperate account [PayTM]
+   * Invest 10000Rs every month into a seperate account [PayTM]
 
 ### Scoring Professional Goals:
    * Invest on building novel ideas and designs every week>
@@ -53,11 +53,7 @@ Few of my ideas for a fulfilled life.
 
 ### Limit or Get rid of:
    * Meloncholy of the past, Judgement in the present and worrying about the future
-   * Porn [kaamasutra is acceptable], Smoking/Drinking [once in a month is acceptable].
-   Truth is the more one delves in pleasure only activities the more they will forgo their chances at creating true joy creating activities like Dating, Courtship, Bonding, Intimacy, Vulnerability, Endurance of Pain, Acceptance of Reality.
    * Unhealthy eating habits and Fast Food.
    * Youtube binge, Primevideo/Netflix binge, Popcorn binge
    * Don't invest time in other projects on weekdays
-   * Stop discussing philosophy or collecting quotables
-   * Avoid using phones and distractions while eating
-
+   * Avoid using phones and distractions.
